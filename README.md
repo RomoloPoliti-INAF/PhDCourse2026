@@ -2,7 +2,7 @@
 
 # Advanced Coding and Cloud Computation
 ![year](https://img.shields.io/badge/PhD-2026-blue?style=plastic)
-# PhD 2024
+# PhD 2026
 # University of Salento
 ## Topics
 + **Cloud**
